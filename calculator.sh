@@ -1,3 +1,7 @@
+#!/bin/bash
+set -e
+set -x
+set -o
 cd /
 mkdir shiva
 cd shiv
